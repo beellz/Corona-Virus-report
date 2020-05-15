@@ -1,0 +1,24 @@
+* {
+    padding :0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(./covid.jpg) ;
+    background: linear-gradient(to right , hsl(200, 100%, 50%), hsl(175,100%,50%));
+}
+
+
+.label {
+    padding: 1em;
+    padding-left: 200px;
+    font-weight: bold;
+
+}
+
+.data {
+    padding: 150px;
+    text-align: center;
+    font-weight: lighter;
+}
+
